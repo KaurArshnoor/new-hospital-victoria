@@ -1,0 +1,173 @@
+LGA Name,Final Dispatch Code,%<=15mins,AVG RT - Seconds,Total Number
+Alpine,Code 1,51.1%,1219, 573 
+Ararat,Code 1,66.0%,875, 588 
+Ballarat,Code 1,89.7%,618," 6,051 "
+Banyule,Code 1,91.4%,594," 5,415 "
+Bass Coast,Code 1,68.2%,842," 2,325 "
+Baw Baw,Code 1,69.5%,842," 2,510 "
+Bayside,Code 1,89.8%,630," 3,433 "
+Benalla,Code 1,63.8%,903, 821 
+Boroondara,Code 1,90.8%,616," 5,076 "
+Brimbank,Code 1,89.7%,613," 9,894 "
+Buloke,Code 1,38.1%,1389, 289 
+Campaspe,Code 1,67.0%,824," 1,957 "
+Cardinia,Code 1,73.6%,741," 4,486 "
+Casey,Code 1,87.9%,630," 13,380 "
+Central Goldfields,Code 1,65.3%,885, 879 
+Colac-Otway,Code 1,65.7%,904, 947 
+Corangamite,Code 1,46.7%,1102, 709 
+Darebin,Code 1,92.0%,583," 7,670 "
+East Gippsland,Code 1,64.8%,914," 3,012 "
+Frankston,Code 1,91.3%,585," 7,948 "
+Gannawarra,Code 1,50.5%,1130, 461 
+Glen Eira,Code 1,92.0%,588," 5,185 "
+Glenelg,Code 1,75.5%,783, 942 
+Golden Plains,Code 1,34.6%,1126, 754 
+Greater Bendigo,Code 1,80.9%,708," 6,382 "
+Greater Dandenong,Code 1,92.0%,580," 8,368 "
+Greater Geelong,Code 1,84.8%,663," 14,021 "
+Greater Shepparton,Code 1,85.6%,640," 4,061 "
+Hepburn,Code 1,37.4%,1108, 787 
+Hindmarsh,Code 1,56.6%,1209, 272 
+Hobsons Bay,Code 1,88.1%,634," 4,043 "
+Horsham,Code 1,85.0%,633," 1,091 "
+Hume,Code 1,88.1%,627," 12,211 "
+Indigo,Code 1,28.8%,1261, 542 
+Kingston,Code 1,91.5%,594," 6,877 "
+Knox,Code 1,92.5%,579," 6,357 "
+Latrobe,Code 1,80.9%,675," 5,941 "
+Loddon,Code 1,31.1%,1297, 482 
+Macedon Ranges,Code 1,67.3%,804," 1,985 "
+Manningham,Code 1,85.3%,692," 4,246 "
+Mansfield,Code 1,45.9%,1401, 338 
+Maribyrnong,Code 1,90.5%,589," 3,685 "
+Maroondah,Code 1,93.6%,543," 5,128 "
+Melbourne,Code 1,91.8%,533," 9,816 "
+Melton,Code 1,83.6%,656," 7,113 "
+Mildura,Code 1,85.3%,650," 3,176 "
+Mitchell,Code 1,66.8%,825," 2,224 "
+Moira,Code 1,60.5%,939," 1,717 "
+Monash,Code 1,89.1%,644," 6,996 "
+Moonee Valley,Code 1,87.9%,659," 5,293 "
+Moorabool,Code 1,71.6%,773," 1,495 "
+Moreland,Code 1,90.6%,611," 8,228 "
+Mornington Peninsula,Code 1,83.0%,659," 8,676 "
+Mount Alexander,Code 1,52.4%,1003, 848 
+Moyne,Code 1,42.4%,1068, 571 
+Murrindindi,Code 1,38.9%,1298, 763 
+Nillumbik,Code 1,70.8%,798," 2,068 "
+Northern Grampians,Code 1,68.1%,871, 624 
+Port Phillip,Code 1,90.8%,575," 4,777 "
+Pyrenees,Code 1,47.5%,1070, 440 
+Queenscliffe,Code 1,56.5%,911, 161 
+South Gippsland,Code 1,47.9%,1082," 1,493 "
+Southern Grampians,Code 1,62.6%,957, 709 
+Stonnington,Code 1,90.3%,612," 3,836 "
+Strathbogie,Code 1,46.0%,1061, 694 
+Surf Coast,Code 1,61.4%,917," 1,310 "
+Swan Hill,Code 1,74.8%,772," 1,092 "
+Towong,Code 1,42.5%,1379, 285 
+Wangaratta,Code 1,76.4%,761," 1,516 "
+Warrnambool,Code 1,92.5%,569," 1,556 "
+Wellington,Code 1,60.1%,974," 2,281 "
+West Wimmera,Code 1,37.3%,1297, 169 
+Whitehorse,Code 1,92.8%,557," 6,235 "
+Whittlesea,Code 1,81.7%,690," 9,416 "
+Wodonga,Code 1,87.5%,634," 2,220 "
+Wyndham,Code 1,88.0%,627," 8,515 "
+Yarra,Code 1,93.2%,529," 4,611 "
+Yarra Ranges,Code 1,77.9%,716," 6,722 "
+Yarriambiack,Code 1,39.8%,1280, 387 
+Interstate LGAs,Code 1,61.9%,1019, 977 
+Total AV,Code 1,83.9%,670," 291,220 "
+,,,,
+NOTE: ,,,,
+1. The Moonee Valley LGA includes the airport to which a significant number of Code 2 inter hospital transers (IHTs) arrive. IHTs often have extended response times due to the emergency road ambulance waiting at the airport for the patient to arrive by aircraft. Removing IHTs from the Moonee Valley Code 1 response time results in performance similar to surrounding LGAs.,,,,
+,,,,
+,,,,
+,,,,
+LGA Name,Final Dispatch Code,,AVG RT - Seconds,Total Number
+Alpine,Code 2,,1963, 657 
+Ararat,Code 2,,1495, 529 
+Ballarat,Code 2,,1301," 4,301 "
+Banyule,Code 2,,1337," 3,972 "
+Bass Coast,Code 2,,1619," 1,983 "
+Baw Baw,Code 2,,1455," 2,045 "
+Bayside,Code 2,,1515," 2,584 "
+Benalla,Code 2,,1537, 681 
+Boroondara,Code 2,,1419," 3,736 "
+Brimbank,Code 2,,1330," 6,048 "
+Buloke,Code 2,,2336, 244 
+Campaspe,Code 2,,1696," 1,782 "
+Cardinia,Code 2,,1231," 3,065 "
+Casey,Code 2,,1232," 9,220 "
+Central Goldfields,Code 2,,1618, 856 
+Colac-Otway,Code 2,,1642, 960 
+Corangamite,Code 2,,1678, 626 
+Darebin,Code 2,,1304," 5,311 "
+East Gippsland,Code 2,,1902," 2,518 "
+Frankston,Code 2,,1143," 6,030 "
+Gannawarra,Code 2,,2166, 459 
+Glen Eira,Code 2,,1512," 3,664 "
+Glenelg,Code 2,,1541, 856 
+Golden Plains,Code 2,,1670, 390 
+Greater Bendigo,Code 2,,1428," 4,305 "
+Greater Dandenong,Code 2,,1178," 5,911 "
+Greater Geelong,Code 2,,1366," 9,864 "
+Greater Shepparton,Code 2,,1339," 3,067 "
+Hepburn,Code 2,,1811, 601 
+Hindmarsh,Code 2,,1955, 322 
+Hobsons Bay,Code 2,,1405," 2,817 "
+Horsham,Code 2,,1853," 1,090 "
+Hume,Code 2,,1222," 7,518 "
+Indigo,Code 2,,1917, 397 
+Kingston,Code 2,,1333," 4,971 "
+Knox,Code 2,,1128," 4,629 "
+Latrobe,Code 2,,1329," 4,228 "
+Loddon,Code 2,,2064, 318 
+Macedon Ranges,Code 2,,1327," 1,705 "
+Manningham,Code 2,,1466," 2,808 "
+Mansfield,Code 2,,2187, 426 
+Maribyrnong,Code 2,,1362," 2,791 "
+Maroondah,Code 2,,1181," 3,870 "
+Melbourne,Code 2,,1363," 9,172 "
+Melton,Code 2,,1268," 4,394 "
+Mildura,Code 2,,1746," 2,541 "
+Mitchell,Code 2,,1415," 2,151 "
+Moira,Code 2,,1598," 1,597 "
+Monash,Code 2,,1390," 5,279 "
+Moonee Valley,Code 2,,3665," 5,402 "
+Moorabool,Code 2,,1366," 1,311 "
+Moreland,Code 2,,1408," 5,614 "
+Mornington Peninsula,Code 2,,1246," 6,504 "
+Mount Alexander,Code 2,,1748, 699 
+Moyne,Code 2,,1854, 458 
+Murrindindi,Code 2,,1905, 641 
+Nillumbik,Code 2,,1404," 1,472 "
+Northern Grampians,Code 2,,1654, 684 
+Port Phillip,Code 2,,1419," 3,790 "
+Pyrenees,Code 2,,1638, 284 
+Queenscliffe,Code 2,,1442, 131 
+South Gippsland,Code 2,,1818," 1,197 "
+Southern Grampians,Code 2,,1646, 610 
+Stonnington,Code 2,,1493," 2,942 "
+Strathbogie,Code 2,,1602, 480 
+Surf Coast,Code 2,,1442, 955 
+Swan Hill,Code 2,,1853," 1,001 "
+Towong,Code 2,,1999, 298 
+Wangaratta,Code 2,,1712," 1,207 "
+Warrnambool,Code 2,,1257," 1,346 "
+Wellington,Code 2,,1680," 1,882 "
+West Wimmera,Code 2,,1851, 151 
+Whitehorse,Code 2,,1307," 4,632 "
+Whittlesea,Code 2,,1366," 5,835 "
+Wodonga,Code 2,,1380," 1,561 "
+Wyndham,Code 2,,1277," 6,012 "
+Yarra,Code 2,,1356," 3,445 "
+Yarra Ranges,Code 2,,1202," 4,719 "
+Yarriambiack,Code 2,,2004, 273 
+Interstate LGAs,Code 2,,1824, 612 
+Total AV,Code 2,,1441," 215,714 "
+,,,,
+NOTE: ,,,,
+1. The Moonee Valley LGA includes the airport to which a significant number of Code 2 inter hospital transers (IHTs) arrive. IHTs often have extended response times due to the emergency road ambulance waiting at the airport for the patient to arrive by aircraft. Removing IHTs from the Moonee Valley Code 1 response time results in performance similar to surrounding LGAs.,,,,
