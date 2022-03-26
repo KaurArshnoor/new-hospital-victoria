@@ -7,10 +7,10 @@ Running the python file with the csv files available in the folder
 will produce visualisations and statistics.
 
 # List of Dependencies:
-Python 3
-pandas
-numpy
-re
-matplotlib
-os
-seaborn
+* Python 3
+* pandas
+* numpy
+* re
+* matplotlib
+* os
+* seaborn
